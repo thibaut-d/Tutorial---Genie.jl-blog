@@ -1,0 +1,1 @@
+C:\Users\thiba\AppData\Local\Julia-1.3.0\bin\julia --color=yes --depwarn=no -q -i -- ../bootstrap.jl %*
